@@ -45,7 +45,6 @@ def home():
         <div class="container">
             <h1>🚀 CI/CD Demo Successful</h1>
             <p>Deployment completed successfully using Flask.</p>
-            <h2>Saaiprasath <span class="heart">❤</span> Pig</h2>
         </div>
     </body>
     </html>
